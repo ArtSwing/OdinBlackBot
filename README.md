@@ -1,2 +1,2 @@
-# OdinBot
-OdinBot Use Python Discord Bot
+# OdinBlackBot
+OdinBlackBot Use Python Discord Bot
